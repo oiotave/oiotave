@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, tudo bem? Eu sou o Jotavê
+Eu sou um estudante de Ciência da Computação na Universidade Federal da Paraíba. Tenho grande curiosidade em variados tópicos de tecnologia e afins, e atualmente estou expandindo meu repertório tanto em linguagens de programação, quanto em frameworks.
 
-<!--
-**oiotave/oiotave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estatísticas
+<div style="display: flex; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiotave&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiotave&layout=compact&theme=radical"/>
+</div>
 
-Here are some ideas to get you started:
+## Linguagens & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nest)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgres,vscode,idea)](https://skillicons.dev)
