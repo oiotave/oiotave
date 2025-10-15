@@ -3,8 +3,8 @@ Eu sou um estudante de Ciência da Computação na Universidade Federal da Para�
 
 ## Estatísticas
 <div style="display: flex; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiotave&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiotave&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiotave&show_icons=true&theme=radical&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiotave&layout=compact&theme=radical&v=2"/>
 </div>
 
 ## Linguagens & Frameworks
