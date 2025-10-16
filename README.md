@@ -12,7 +12,7 @@ Eu sou um estudante de Ciência da Computação na Universidade Federal da Para�
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nest)](https://skillicons.dev)
 
 ## Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgres,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postgres,vscode,idea)](https://skillicons.dev)
 
 ## Informações de contato
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iotave/)
