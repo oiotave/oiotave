@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Eu sou o Jotavê
 
-Eu sou um estudante de Ciência da Computação na Universidade Federal da Paraíba. Tenho grande curiosidade em variados tópicos de tecnologia e afins, e atualmente estou expandindo meu repertório tanto em linguagens de programação, quanto em frameworks.
+Eu sou um estudante de Ciência da Computação na Universidade Federal da Paraíba. Tenho grande curiosidade em variados tópicos de tecnologia e afins, e atualmente estou expandindo meu repertório tanto em novas linguagens de programação, quanto em frameworks.
 
 ## Estatísticas
 <div style="display: flex; gap: 10px;">
