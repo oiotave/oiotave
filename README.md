@@ -1,4 +1,5 @@
 ## Olá, tudo bem? Eu sou o Jotavê
+
 Eu sou um estudante de Ciência da Computação na Universidade Federal da Paraíba. Tenho grande curiosidade em variados tópicos de tecnologia e afins, e atualmente estou expandindo meu repertório tanto em linguagens de programação, quanto em frameworks.
 
 ## Estatísticas
@@ -12,3 +13,7 @@ Eu sou um estudante de Ciência da Computação na Universidade Federal da Para�
 
 ## Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgres,vscode,idea)](https://skillicons.dev)
+
+## Informações de contato
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iotave/)
+[![Contact](https://skillicons.dev/icons?i=github)](https://github.com/oiotave)
