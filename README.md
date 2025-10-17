@@ -14,6 +14,6 @@ Eu sou um estudante de Ciência da Computação na Universidade Federal da Para�
 ## Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,postgres,vscode,idea)](https://skillicons.dev)
 
-## Informações de contato
+## Informações para contato
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iotave/)
 [![Contact](https://skillicons.dev/icons?i=github)](https://github.com/oiotave)
